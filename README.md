@@ -7,7 +7,6 @@
 </p>
 
 # Kaline Souza
-<sub>*Lead Data Scientist* at Space Operations Center</sub>
 
 Possui Mestrado em Ciência e Engenharia de Petróleo - Automação (UFRN, 2019). Especialização em Ensino de Matemática pelo Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte (IFRN, 2016) e Graduação em Matemática (UFRN, 2012). Atualmente é Bacharelanda em Ciência e Tecnologia - Mecatrônica (UFRN). É pesquisadora do Laboratório de Sistemas Inteligentes do Departamento de Engenharia de Computação e Automação (DCA/UFRN).
 
