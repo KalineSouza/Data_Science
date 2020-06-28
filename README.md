@@ -19,7 +19,6 @@ Possui Mestrado em Ciência e Engenharia de Petróleo - Automação (UFRN, 2019)
 
 
 ## Projetos:
-Veja os projetos publicados:
 
 * **
 ---
