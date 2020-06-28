@@ -14,7 +14,7 @@ Possui Mestrado em Ciência e Engenharia de Petróleo - Automação (UFRN, 2019)
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/kaline-souza-75b113187/)
-* [Medium]
+* [Medium](https://medium.com/@kalinesouzads)
 
 
 ## Projetos:
